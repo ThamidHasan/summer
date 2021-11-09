@@ -27,6 +27,7 @@
 	text-decoration: none;
 	font-size: 30px;
 	font-weight: 700;
+	transition: 0.5s;
 }
 .nav-left:hover a{
 	color: #aa15b6;
@@ -48,6 +49,7 @@
 	text-decoration: none;
 	font-size: 30px;
 	font-weight: 700;
+	transition: 0.5s;
 }
 .nav-right ul li:hover a{
 	color: #aa15b6;
